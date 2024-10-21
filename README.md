@@ -84,6 +84,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/238165a2-42b6-4b36-a104-e215f3b0adcd)
 
 ### FINAL PREDICTION
+![Untitled](https://github.com/user-attachments/assets/097027e3-63bb-4cff-aa58-bdc32c574d7d)
 
 
 ### RESULT:
